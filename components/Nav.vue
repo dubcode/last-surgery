@@ -50,10 +50,6 @@ export default {
           title: 'Partners'
         },
         {
-          link: '/hospitals',
-          title: 'Hospitals'
-        },
-        {
           link: '/document-library',
           title: 'Document Library'
         },

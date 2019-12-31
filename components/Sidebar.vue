@@ -21,22 +21,6 @@
         </span>
         <p>You can also donate directly to the LAST Surgery trust simply download and return <a href="/Ameca-donation-form.pdf" target="_blank">this PDF form.</a></p>
     </div>
-    <div class="--row --m3">
-        <nuxt-link to="/hospitals" class="t3 --m1">
-        Medical Directory
-        </nuxt-link>
-        <nuxt-link to="/hospitals">
-          <img
-          height="130px"
-          width="391px"
-          src="@/assets/images/directory.jpg"
-          alt="Donate"
-          class="--m1"
-          title="Make a donation through Virgin Money Giving"
-          >
-        </nuxt-link>
-          <p>The LAST Surgery Hospitals Database promotes opportunities to share healthcare skills, training and expertise between the UK and Africa. Browse the Directory</p>
-    </div>
   </div>
 </template>
 
