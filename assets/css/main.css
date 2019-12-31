@@ -170,7 +170,6 @@ img {
 }
 
 .header__wrapper {
-  height: 8em;
   padding: 1em 0;
   transition: all ease 0.3s;
 }
@@ -293,7 +292,7 @@ img {
 
 /* Nav */
 .nav {
-  background: url('~assets/images/giraffe.jpg') no-repeat center bottom;
+  background: url('~assets/images/bg.jpg') no-repeat center bottom;
   background-size: cover;
   display: flex;
   left: 0;

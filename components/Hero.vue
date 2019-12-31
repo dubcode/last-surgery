@@ -5,8 +5,8 @@
 
 <style lang="scss" scoped>
 .hero {
-  background: url('~assets/images/bg1.jpg') no-repeat center bottom;
+  height:16em;
+  background: url('~assets/images/hdrbg.jpg') no-repeat center bottom;
   background-size: cover;
-  height:8em;
 }
 </style>
